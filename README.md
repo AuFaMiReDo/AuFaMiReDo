@@ -50,5 +50,5 @@ Ketika sedang beristirahat dari layar IDE atau terminal, saya biasanya menghabis
 ## 📊 Aktivitas GitHub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Aufa" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AuFaMiReDo&theme=tokyonight" alt="Streak GitHub Aufa" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AuFaMiReDo&layout=compact&theme=tokyonight" alt="Top Languages Aufa" width="48%" />
 </p>
