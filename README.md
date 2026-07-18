@@ -61,4 +61,4 @@ Saya selalu terbuka untuk kolaborasi proyek, diskusi teknis seputar mobile apps,
 ---
 
 ### 📊 GitHub Stats
-![Streak GitHub Kamu](https://streak-stats.demolab.com/?user=AuFaMiReDo&theme=radial)
+![Statistik GitHub Muhammad Aufa Fitrianda](https://github-readme-stats-sigma-five.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=radial)
