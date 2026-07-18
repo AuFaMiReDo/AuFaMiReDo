@@ -61,4 +61,4 @@ Saya selalu terbuka untuk kolaborasi proyek, diskusi teknis seputar mobile apps,
 ---
 
 ### 📊 GitHub Stats
-![Statistik GitHub Muhammad Aufa Fitrianda](https://github-readme-stats.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=radial&v=1)
+![Statistik GitHub Muhammad Aufa Fitrianda](https://github-readme-stats.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=radial&v=2)
