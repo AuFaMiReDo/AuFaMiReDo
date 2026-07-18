@@ -61,4 +61,4 @@ Saya selalu terbuka untuk kolaborasi proyek, diskusi teknis seputar mobile apps,
 ---
 
 ### 📊 GitHub Stats
-![Streak GitHub Kamu](https://github-readme-streak-stats.herokuapp.com/?user=AuFaMiReDo&theme=radial)
+![Streak GitHub Kamu](https://streak-stats.demolab.com/?user=AuFaMiReDo&theme=radial)
