@@ -74,3 +74,15 @@ Ketika sedang beristirahat dari layar IDE atau terminal, saya biasanya menghabis
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Aufa" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AuFaMiReDo&layout=compact&theme=tokyonight" alt="Top Languages Aufa" width="48%" />
 </p>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/snake-output/snake.svg" alt="Snake animation" />
+
+###
