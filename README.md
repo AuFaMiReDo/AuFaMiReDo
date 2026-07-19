@@ -73,10 +73,10 @@ Ketika sedang beristirahat dari layar IDE atau terminal, saya biasanya menghabis
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Aufa" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AuFaMiReDo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Aufa" height="195" />
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AuFaMiReDo&theme=tokyonight" alt="Top Languages Aufa" />
+    <td valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AuFaMiReDo&theme=tokyonight&hide_border=true" alt="Top Languages Aufa" height="195" />
     </td>
   </tr>
 </table>
