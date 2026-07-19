@@ -1,4 +1,4 @@
-# ─── ※ Muhammad Aufa Fitrianda ※ ───
+![Muhammad Aufa Fitrianda](img/github-header-banner.png) 
 ### 📱 Mobile Developer | 🌐 Web Developer | 🔒 Cybersecurity Enthusiast
 
 <p align="left">
