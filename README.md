@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-aufa-fitrianda-70b3b1259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5"/></a>
-  <a href="mailto:muhammadaufafitrianda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadaufafitrianda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"/></a>
 </p>
 
 ---
