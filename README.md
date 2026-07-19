@@ -81,7 +81,7 @@ Ketika sedang beristirahat dari layar IDE atau terminal, saya biasanya menghabis
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+<!-- ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AuFaMiReDo/AuFaMiReDo/snake-output/snake.svg" alt="Snake animation" />
-
+ -->
